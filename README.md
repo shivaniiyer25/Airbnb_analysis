@@ -1,9 +1,9 @@
 # airbnb_analysis
 Airbnb Analysis :
-In this project, which involves the MongoDB Atlas sample Airbnb dataset, our objective is to conduct Exploratory Data Analysis (EDA) by performing data cleaning. Ultimately, we aim to represent the insightful findings in a visually compelling format through storytelling using Power BI.
+In this project with sample Airbnb dataset, our objective is to conduct Exploratory Data Analysis (EDA) by performing data cleaning. Ultimately, we aim to represent the insightful findings in a visually compelling format through storytelling using Power BI.
 
 Problem Statement :
-It effectively communicates the goals of the project, including analyzing Airbnb data using MongoDB Atlas, conducting data cleaning and preparation, and utilizing geospatial visualizations and dynamic plots to uncover insights related to pricing, availability, and location-based trends. If you have any specific questions or if there's anything else you'd like assistance with regarding this project, feel free to let me know!
+It effectively communicates the goals of the project, including analyzing Airbnb data, conducting data cleaning and preparation, and utilizing geospatial visualizations and dynamic plots to uncover insights related to pricing, availability, and location-based trends.
 
 Objective :
 The project's objective is to Airbnb data visualization techniques for a comprehensive understanding of the dataset. It aims to leverage Exploratory Data Analysis (EDA) and Business Intelligence tools, such as Power BI, to visually interpret the data and extract meaningful insights.
@@ -11,7 +11,7 @@ The project's objective is to Airbnb data visualization techniques for a compreh
 Libraries:
 Modules needed for the project!
 
-a) Pandas b) urllib.parse c) pymongo
+a) Pandas 
 
 Data Visualization Tool :
 Power BI
@@ -20,8 +20,7 @@ The main product for creating data visualizations and reports. It is a Windows d
 Workflow :
 Step 1 :
 
-Establish a connection to the MongoDB Atlas database and retrieve the Airbnb dataset.
-
+Download the airbnb dataset.
 Step 2 :
 
 Clean the Airbnb dataset by addressing missing values, eliminating duplicates, and adjusting data types as required. Prepare the dataset for Exploratory Data Analysis (EDA) and visualization tasks, ensuring data integrity and consistency throughout the process.
@@ -32,7 +31,7 @@ Utilize the cleaned data to conduct an analysis and visualization of price varia
 
 Step 4 :
 
-Leverage Tableau or Power BI to craft a comprehensive dashboard showcasing key insights derived from your analysis. Integrate various visualizations, including maps, charts, and tables, to offer a holistic perspective on the Airbnb dataset and its underlying patterns. Employ analysis techniques such as DAX (Data Analysis Expressions) to create new measures and add columns, enhancing the utility and depth of your analysis. This approach will enable a more nuanced exploration of the dataset, facilitating a richer understanding of trends and relationships within the Airbnb data.
+Leverage Power BI to craft a comprehensive dashboard showcasing key insights derived from your analysis. Integrate various visualizations, including maps, charts, and tables, to offer a holistic perspective on the Airbnb dataset and its underlying patterns. Making sure to understand the trends in data.
 
 Step 5 :
 

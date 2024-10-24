@@ -1,4 +1,4 @@
-# airbnb_analysis
+# Airbnb Analysis
 Airbnb Analysis :
 In this project with sample Airbnb dataset, our objective is to conduct Exploratory Data Analysis (EDA) by performing data cleaning. Ultimately, we aim to represent the insightful findings in a visually compelling format through storytelling using Power BI.
 
